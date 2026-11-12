@@ -1,0 +1,12 @@
+- Introduction to the ConfigMgr PowerShell Module
+- Working with ConfigMgr Infrastructure, Site System Roles, and More
+- Working with Packages and Applications
+- Working with Task Sequences
+- Working with Software Updates
+
+- The introduction of Configuration Manager through PowerShell
+- Hierarchy details
+- Asset and compliance
+- Software distribution
+- Operating system deployment
+- Software Update Management
